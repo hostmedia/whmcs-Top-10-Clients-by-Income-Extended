@@ -9,7 +9,7 @@ This report provides an overview of the top 10 clients ranked by total income wi
 - Pre-defined date periods for quick review; All Time (Default), Current Month, Last Month, Current Year and Last Year 
 - Change from top 10 to top; 20, 30, 40, 50, 100 and 200
 
-![WHMCS Top 10 Clients by Income Extended with Date Range & Comparison]([https://myoctocat.com/assets/images/base-octocat.svg](https://marketplace.whmcs.com/product/7765/images/screenshots/22492-892-41aa59019157de629efe9397fe2a6b7a.png)
+![WHMCS Top 10 Clients by Income Extended](https://hostmedia.uk/resources/images/knowledgebase/top-10-clients-report-extended.png)
 
 ## Install
 - Download the report https://github.com/hostmedia/whmcs-Top-10-Clients-by-Income-Extended/archive/refs/heads/main.zip
